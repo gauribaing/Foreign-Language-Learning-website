@@ -1,0 +1,5 @@
+C:\Users\HP\documents\visual studio 2010\Projects\languages\languages\bin\languages.dll
+C:\Users\HP\documents\visual studio 2010\Projects\languages\languages\bin\languages.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\languages\languages\obj\Debug\languages.dll
+C:\Users\HP\documents\visual studio 2010\Projects\languages\languages\obj\Debug\languages.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\languages\languages\obj\Debug\languages.csprojResolveAssemblyReference.cache
